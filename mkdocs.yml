@@ -1,0 +1,36 @@
+site_name: Lumos Wiki
+theme:
+  name: material
+  palette:
+    primary: white
+    accent: blue
+    
+  language: zh
+  logo: assets/lumosfans.png
+  favicon: assets/lumosfans.png
+  icon:
+    edit: material/pencil
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - content.action.edit
+    - toc.follow
+    - navigation.top
+plugins:
+  - search:
+      lang: 
+        - en
+        - zh
+      jieba_dict: dict.txt
+  - git-revision-date-localized:
+      type: iso_datetime
+
+repo_name: ver217/lumos-wiki
+repo_url: https://github.com/ver217/lumos-wiki
+edit_uri: edit/main/docs/
+copyright: Copyright &copy; 2023 Lumos Fans Club
+
+# Nav
+nav:
+  - 简介:
+    - 关于本项目: index.md
