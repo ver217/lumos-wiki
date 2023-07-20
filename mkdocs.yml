@@ -34,3 +34,12 @@ copyright: Copyright &copy; 2023 Lumos Fans Club
 nav:
   - 简介:
     - 关于本项目: index.md
+  - 编年史: chronicle.md
+  - 小蓝:
+    - 简介: aoyi/index.md
+  - 十二:
+    - 简介: 12/index.md
+  - Miki:
+    - 简介: miki/index.md
+  - 柠檬汁:
+    - 简介: lemon-juice/index.md
