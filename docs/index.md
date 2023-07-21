@@ -74,7 +74,7 @@ Focus视频，指聚焦于某一位偶像的视频。
 
 ### 野Live
 
-出自小蓝，指没有Lumos参加的Live。后衍生到野Part，既拼盘中没有Lumos演出的部分。野帧，指录像中没有Lumos的帧。反义词，“家Live”，指Lumos参与的Live。
+出自小蓝，指没有Lumos参加的Live。后衍生到野Part，即拼盘中没有Lumos演出的部分。野帧，指录像中没有Lumos的帧。反义词，“家Live”，指Lumos参与的Live。
 
 ### 事业女人
 
