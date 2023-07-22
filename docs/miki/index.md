@@ -4,6 +4,8 @@
 
 别称：米老师、大米、~~平底锅~~。
 
+生日：10.18
+
 Catchphrase：Miki的红是，热血红！
 
 ## 社交账号
@@ -12,3 +14,7 @@ Catchphrase：Miki的红是，热血红！
 - Bilibili：[@恶魔少女Miki](https://space.bilibili.com/9395982)
 - 小红书：[@恶魔少女Miki](https://www.xiaohongshu.com/user/profile/61977eb5000000002102435c)
 - 抖音：[@Miki不要香菜](https://www.douyin.com/user/MS4wLjABAAAAdXyvAteOX5zoA7Bim43y7NJzuvrbOGyscYlac8sxFnU)
+
+## 梗百科
+
+TODO
