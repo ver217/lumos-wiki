@@ -24,6 +24,7 @@ plugins:
       jieba_dict: dict.txt
   - git-revision-date-localized:
       type: iso_datetime
+      timezone: Asia/Shanghai
 
 repo_name: ver217/lumos-wiki
 repo_url: https://github.com/ver217/lumos-wiki
