@@ -33,6 +33,7 @@ copyright: Copyright &copy; 2023 Lumos Fans Club
 
 markdown_extensions:
   - pymdownx.tilde
+  - attr_list
 
 # Nav
 nav:
@@ -45,9 +46,6 @@ nav:
   - 小蓝:
     - 简介: aoi/index.md
     - 直拍视频: aoi/focus.md
-  - 十二:
-    - 简介: 12/index.md
-    - 直拍视频: 12/focus.md
   - 柠檬汁:
     - 简介: lemonade/index.md
     - 直拍视频: lemonade/focus.md
